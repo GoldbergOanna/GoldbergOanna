@@ -9,7 +9,7 @@
 
 </div>
 
-## 👋 Hi, I'm Oana
+## Hi, I'm Oana
 
 I'm a senior full-stack engineer at **AccessiBe** with **7+ years** of experience building production web platforms, from enterprise apps serving millions of users to SaaS billing, licensing and admin systems.
 
