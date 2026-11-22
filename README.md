@@ -9,57 +9,57 @@
 
 </div>
 
-## Hi, I'm Oana
+# Hey, I'm Oana 👋
 
-I'm a senior software engineer at **AccessiBe** with **7+ years** of experience building production web platforms, from enterprise apps serving millions of users to SaaS billing, licensing and admin systems.
+**Senior Software Engineer | Full-Stack | React, Node.js & TypeScript**
 
-🌍 **I work remotely from anywhere.** 
+I build things for the web, and I care about what happens after they ship.
 
-I own features end to end: design, build, rollout, and the fixes that come after launch.
+I'm a full-stack engineer with 7+ years of experience turning complex requirements into reliable, maintainable software. I've worked on everything from enterprise platforms serving millions of users to SaaS products, payment systems, and developer tools.
 
-**I'm taking on freelance and contract projects.** Here's what I can help with:
+I enjoy the tricky parts: untangling complex problems, making architecture decisions, finding bugs that refuse to make sense, and turning messy requirements into something that just works.
 
-- 🚀 **Full-stack web apps:** React or Angular frontends with Node.js/TypeScript backends, from MVP to production
-- 💳 **Payments and integrations:** Stripe (billing, webhooks, Connect), Salesforce, Jira, SendGrid, and third-party APIs
-- 🎨 **Design systems and UI:** reusable component libraries, Storybook, and accessible, responsive interfaces
-- ☁️ **Cloud and reliability:** GCP Cloud Run, Docker, CI/CD, monitoring dashboards, and performance tuning
-- 🔍 **Rescue and debugging:** tracing hard bugs across services, finding the root cause, and fixing it for good
+I believe good engineering is about more than writing code. It's about asking the right questions, keeping things simple where possible, and building software that other developers actually enjoy working with.
 
-## 🛠️ Tech Stack
+### ⚡ What I work with
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,angular,nodejs,express,html,css&perline=8" alt="Languages and frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql,graphql,gcp,aws,docker&perline=8" alt="Data and cloud" /><br/>
-  <img src="https://skillicons.dev/icons?i=vite,webpack,jest,vitest,redux,styledcomponents,terraform,git&perline=8" alt="Tooling" />
-</p>
+- **Frontend:** React, Angular, TypeScript, React Native, Storybook
+- **Backend:** Node.js, Fastify, Express, tRPC, REST, GraphQL
+- **Data:** MongoDB, PostgreSQL, Redis
+- **Cloud & DevOps:** GCP, AWS, Docker, Terraform, CI/CD
+- **Integrations:** Stripe, Salesforce, and third-party APIs
+- **Quality:** Testing, monitoring, accessibility, and performance
 
-| Area | What I use |
+### 🚀 A few things I've worked on
+
+- Built enterprise applications and micro-frontend architectures at ZoomInfo, supporting products used by millions.
+- Developed payment integrations and reliability workflows involving Stripe, asynchronous processing, and cloud services.
+- Designed and shipped dashboard experiences and reusable UI components.
+- Built monitoring and alerting tools to make production systems easier to understand and maintain.
+- Taken features from initial design through development, deployment, and everything that comes afterward.
+
+### 🧩 A little more about how I work
+
+I like clean architecture, thoughtful UI, and solving problems at their root rather than patching symptoms.
+
+I'm equally comfortable building a React interface, digging into backend services, or figuring out why something that worked perfectly yesterday suddenly doesn't.
+
+And yes, I will probably refactor that unnecessarily complicated function. 🙂
+
+### 📌 Things I've built
+
+| Project | What it's about |
 |---|---|
-| **Frontend** | React, Angular, React Native, TypeScript, react-query, Redux, Zustand, NgRx/RxJS, styled-components, Storybook |
-| **Backend** | Node.js, Express, Fastify, tRPC, REST, GraphQL, Zod, microservices |
-| **Data** | MongoDB/Mongoose, PostgreSQL, Redis, MySQL |
-| **Cloud and DevOps** | GCP (Cloud Run), AWS, Terraform, Docker, CircleCI, Jenkins, Cloudflare |
-| **Integrations** | Stripe, Salesforce, Jira, LaunchDarkly, SendGrid, Mixpanel, Google Sign-In |
-| **Quality** | Jest, Vitest, React Testing Library, Datadog, GCP Monitoring, accessibility (a11y) |
+| [Pokédex Monorepo](https://github.com/GoldbergOanna/pokedex-monorepo) | Full-stack TypeScript, shared types, authentication, and PostgreSQL |
+| [UV Bunny](https://github.com/GoldbergOanna/uvbunny-app) | Angular 19, Firebase, and real-time application development |
+| [React Canvas Platformer](https://github.com/GoldbergOanna/react-canvas-platformer) | Game loops, physics, and React working alongside HTML5 Canvas |
 
-## 💼 Highlights
+### ☕ Let's connect
 
-- Built **micro-frontend architectures** and data-heavy enterprise apps at ZoomInfo, used by millions of users worldwide
-- Own **payment reliability** at AccessiBe: Stripe sync at scale, async Cloud Run jobs, 3DS and failed-payment analysis, and idempotent design
-- Designed and shipped AccessiBe's **new dashboard navigation system**, accessible from the start, rolled out behind feature flags
-- Built **reusable component libraries and Storybook design systems** used by multiple teams
-- Set up **monitoring and alerting dashboards** (GCP, Datadog) to improve production visibility
+I'm open to interesting freelance projects, collaborations, and conversations about software engineering.
 
-## 📌 Featured Projects
+Have something you're building or a particularly stubborn technical problem?
 
-| Project | Stack | What it shows |
-|---|---|---|
-| [pokedex-monorepo](https://github.com/GoldbergOanna/pokedex-monorepo) | TypeScript, monorepo | Full-stack monorepo structure |
-| [uvbunny-app](https://github.com/GoldbergOanna/uvbunny-app) | Angular 19, Firebase | Modern Angular with a realtime backend |
-| [react-canvas-platformer](https://github.com/GoldbergOanna/react-canvas-platformer) | React, HTML5 Canvas | Game loop and physics, with declarative UI kept separate from imperative rendering |
-
-## 🤝 Let's work together
-
-Need a feature built, a product taken from idea to launch, or a production bug finally fixed? **[Message me on LinkedIn](https://www.linkedin.com/in/goldbergoana)** or **[email me](mailto:goldbergoanna@gmail.com)**.
+Find me on [LinkedIn](https://www.linkedin.com/in/goldbergoana) or reach out at **goldbergoanna@gmail.com**.
 
 <img src="assets/footer.svg" alt="Thanks for visiting" width="100%" />
