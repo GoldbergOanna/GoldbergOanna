@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Oana%20Goldberg&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Senior%20Full-Stack%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20TypeScript&descAlignY=58&descSize=18" alt="Oana Goldberg — Senior Full-Stack Engineer" width="100%" />
+<img src="assets/header.svg" alt="Oana Goldberg, Senior Full-Stack Engineer: retro pixel-art banner" width="100%" />
 
 <a href="https://www.linkedin.com/in/goldbergoana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:goldbergoanna@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -62,4 +62,4 @@ I own features end to end: design, build, rollout, and the fixes that come after
 
 Need a feature built, a product taken from idea to launch, or a production bug finally fixed? **[Message me on LinkedIn](https://www.linkedin.com/in/goldbergoana)** or **[email me](mailto:goldbergoanna@gmail.com)**.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=100&section=footer" width="100%" alt="" />
+<img src="assets/footer.svg" alt="Thanks for visiting" width="100%" />
