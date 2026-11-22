@@ -48,11 +48,11 @@ And yes, I will probably refactor that unnecessarily complicated function. 🙂
 
 ### 📌 Things I've built
 
-| Project | What it's about |
-|---|---|
-| [Pokédex Monorepo](https://github.com/GoldbergOanna/pokedex-monorepo) | Full-stack TypeScript, shared types, authentication, and PostgreSQL |
-| [UV Bunny](https://github.com/GoldbergOanna/uvbunny-app) | Angular 19, Firebase, and real-time application development |
-| [React Canvas Platformer](https://github.com/GoldbergOanna/react-canvas-platformer) | Game loops, physics, and React working alongside HTML5 Canvas |
+| Project | What it's about | Live |
+|---|---|---|
+| [Pokédex Monorepo](https://github.com/GoldbergOanna/pokedex-monorepo) | Full-stack TypeScript, shared types, authentication, and PostgreSQL | — |
+| [UV Bunny](https://github.com/GoldbergOanna/uvbunny-app) | Angular 19, Firebase, and real-time application development | [▶ Live demo](https://uvbunny-app.web.app) |
+| [React Canvas Platformer](https://github.com/GoldbergOanna/react-canvas-platformer) | Game loops, physics, and React working alongside HTML5 Canvas | [▶ Play it](https://react-canvas-platformer.web.app) |
 
 ### ☕ Let's connect
 
